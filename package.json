@@ -1,0 +1,14 @@
+{
+  "name": "eso-ia",
+  "version": "1.0.0",
+  "description": "Analytics on ESO inventory across characters and banks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mackenza",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "luaparse": "^0.2.1"
+  }
+}
